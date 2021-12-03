@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Crv57Y2BpxGUL3zdxXPMVh3UET7OC9U/fcrhqDUYIkrP8leyHTLc3FcfoCJ97XAt5bP2CxyAsXPuu7SMDXHqTA==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio Projects\\Price Scraper\\Price Scraper\\Price Scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IceLord\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}

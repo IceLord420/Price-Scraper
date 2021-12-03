@@ -1,0 +1,18 @@
+D:\Visual Studio Projects\Price Scraper\Price Scraper\bin\Debug\net5.0\Price Scraper.exe
+D:\Visual Studio Projects\Price Scraper\Price Scraper\bin\Debug\net5.0\Price Scraper.deps.json
+D:\Visual Studio Projects\Price Scraper\Price Scraper\bin\Debug\net5.0\Price Scraper.runtimeconfig.json
+D:\Visual Studio Projects\Price Scraper\Price Scraper\bin\Debug\net5.0\Price Scraper.runtimeconfig.dev.json
+D:\Visual Studio Projects\Price Scraper\Price Scraper\bin\Debug\net5.0\Price Scraper.dll
+D:\Visual Studio Projects\Price Scraper\Price Scraper\bin\Debug\net5.0\ref\Price Scraper.dll
+D:\Visual Studio Projects\Price Scraper\Price Scraper\bin\Debug\net5.0\Price Scraper.pdb
+D:\Visual Studio Projects\Price Scraper\Price Scraper\bin\Debug\net5.0\HtmlAgilityPack.dll
+D:\Visual Studio Projects\Price Scraper\Price Scraper\obj\Debug\net5.0\Price Scraper.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Price Scraper\Price Scraper\obj\Debug\net5.0\Price Scraper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Price Scraper\Price Scraper\obj\Debug\net5.0\Price Scraper.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Price Scraper\Price Scraper\obj\Debug\net5.0\Price Scraper.AssemblyInfo.cs
+D:\Visual Studio Projects\Price Scraper\Price Scraper\obj\Debug\net5.0\Price Scraper.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Price Scraper\Price Scraper\obj\Debug\net5.0\Price Scraper.csproj.CopyComplete
+D:\Visual Studio Projects\Price Scraper\Price Scraper\obj\Debug\net5.0\Price Scraper.dll
+D:\Visual Studio Projects\Price Scraper\Price Scraper\obj\Debug\net5.0\ref\Price Scraper.dll
+D:\Visual Studio Projects\Price Scraper\Price Scraper\obj\Debug\net5.0\Price Scraper.pdb
+D:\Visual Studio Projects\Price Scraper\Price Scraper\obj\Debug\net5.0\Price Scraper.genruntimeconfig.cache
